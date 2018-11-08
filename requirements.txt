@@ -1,0 +1,5 @@
+cython
+fasttext==0.8.3
+mecab-python3==0.7
+requests-oauthlib==1.0.0
+python-dotenv==0.9.1
